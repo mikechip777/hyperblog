@@ -4,4 +4,4 @@ La segunda linea es la primera que añadimos.
 
 Volvemos a agregar otra línea. Con un extra de texto.
 
-Inicio de línea... continuación de línea.
+Inicio de línea... continuación de línea. continuación de verdad de la línea7.
